@@ -142,7 +142,7 @@ html{
 #slider{
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/Assets/Img/slider1.png') no-repeat top center / cover;
+    background: url('../Img/slider1.png') no-repeat top center / cover;
     color: white;
     position: relative;
 }
@@ -474,7 +474,7 @@ html{
 
 .map{
     margin-top: 32px;
-    background: url('/Assets/Img/map.jpg') no-repeat top center / cover;
+    background: url('../Img/map.jpg') no-repeat top center / cover;
     padding-top: 59%;
 }
 
